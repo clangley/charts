@@ -5,6 +5,10 @@ on:
     branches:
     - master
     - fix/auto-release
+    
+    
+    
+
 
 jobs:
   chart-lint-build-publish:
